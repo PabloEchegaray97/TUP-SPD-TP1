@@ -11,7 +11,3 @@ Este repositorio contiene el proyecto de sitio web para una empresa de Desarroll
 3. **servicios.html**
 
 4. **contactos.html**
-
-## Uso
-
-Puedes clonar este repositorio para acceder a los archivos HTML y el contenido del sitio web. Si deseas hacer cambios o mejoras, te recomendamos bifurcar este repositorio, realizar tus modificaciones y luego crear una solicitud de extracción si deseas que se incorporen tus cambios al proyecto principal.
